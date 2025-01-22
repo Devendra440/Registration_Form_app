@@ -10,6 +10,7 @@ Submit Button: Displays the entered data dynamically on submission.
 Responsive UI: Designed to provide a seamless user experience.
 
 Screenshot 📸
+
 ![WhatsApp Image 2025-01-22 at 23 56 40_4dd1513d](https://github.com/user-attachments/assets/dd1c1577-3790-40f1-a6d9-795f74fd917c)
 
 Input Form Page	Submitted Data
