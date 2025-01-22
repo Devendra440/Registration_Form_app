@@ -10,9 +10,10 @@ Submit Button: Displays the entered data dynamically on submission.
 Responsive UI: Designed to provide a seamless user experience.
 
 Screenshot 📸
-![WhatsApp Image 2025-01-22 at 23 56 40_a732897d](https://github.com/user-attachments/assets/5db46655-a2fc-41bb-8b69-da40615822d6)
+![WhatsApp Image 2025-01-22 at 23 56 40_4dd1513d](https://github.com/user-attachments/assets/dd1c1577-3790-40f1-a6d9-795f74fd917c)
 
 Input Form Page	Submitted Data
+
 Technologies Used 🛠️
 Android Studio
 Java Programming
