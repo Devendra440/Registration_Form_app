@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">week2</string>
+    <string-array name="cities">
+        <item>Chennai</item>
+        <item>Hyderabad</item>
+        <item>Bangalore</item>
+    </string-array>
+</resources>
